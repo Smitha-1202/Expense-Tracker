@@ -1,0 +1,46 @@
+date,amount,category,description
+18-06-2026,1200.0,Expense,transport
+15-06-2026,500.0,Expense,Groceries
+01-06-2026,5000.0,Income,Salary
+02-06-2026,250.0,Food,Breakfast
+02-06-2026,120.0,Transport,Bus Fare
+03-06-2026,800.0,Utilities,Internet Bill
+03-06-2026,450.0,Shopping,Clothes
+04-06-2026,300.0,Food,Lunch
+05-06-2026,200.0,Entertainment,Movie Ticket
+05-06-2026,1500.0,Income,Freelance Project
+06-06-2026,600.0,Food,Groceries
+06-06-2026,350.0,Transport,Fuel
+07-06-2026,1200.0,Utilities,Electricity Bill
+08-06-2026,250.0,Food,Coffee and Snacks
+09-06-2026,700.0,Shopping,Books
+09-06-2026,1000.0,Income,Tutoring
+10-06-2026,180.0,Transport,Auto Fare
+10-06-2026,400.0,Entertainment,Game Purchase
+11-06-2026,550.0,Food,Dinner
+12-06-2026,300.0,Healthcare,Medicines
+13-06-2026,5000.0,Income,Salary
+13-06-2026,350.0,Food,Groceries
+13-06-2026,150.0,Transport,Bus Fare
+14-06-2026,900.0,Shopping,Electronics Accessory
+14-06-2026,220.0,Food,Lunch
+15-06-2026,2500.0,Income,Part-Time Work
+15-06-2026,450.0,Entertainment,Concert Ticket
+16-06-2026,219.0,Income,
+16-06-2026,320.0,Food,Dinner
+17-06-2026,1500.0,Income,Freelance Payment
+17-06-2026,250.0,Food,Lunch at Restaurant
+18-06-2026,1200.0,Transport,Monthly Bus Pass
+18-06-2026,500.0,Entertainment,Movie Tickets
+19-06-2026,650.0,Utilities,Water Bill
+20-06-2026,400.0,Food,Groceries
+21-06-2026,3000.0,Income,Bonus
+22-06-2026,180.0,Transport,Metro Card Recharge
+23-06-2026,750.0,Shopping,Shoes
+24-06-2026,290.0,Food,Takeout
+25-06-2026,1000.0,Income,Online Course Refund
+26-06-2026,350.0,Entertainment,Bowling
+27-06-2026,500.0,Healthcare,Doctor Visit
+28-06-2026,600.0,Food,Groceries
+29-06-2026,450.0,Transport,Fuel
+30-06-2026,5000.0,Income,Salary
